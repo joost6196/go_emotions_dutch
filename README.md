@@ -1,10 +1,10 @@
 # GoEmotions Dutch
 
-# Requirements
+## Requirements
 
-# Setup
+## Setup
 
-# Data
+## Data
 This study's initial dataset was obtained from Google Research. This dataset can be retrieved by running:
 ```
 wget -P data/full_dataset/ https://storage.googleapis.com/gresearch/goemotions/data/full_dataset/goemotions_1.csv
@@ -12,7 +12,7 @@ wget -P data/full_dataset/ https://storage.googleapis.com/gresearch/goemotions/d
 wget -P data/full_dataset/ https://storage.googleapis.com/gresearch/goemotions/data/full_dataset/goemotions_3.csv
 ```
 
-# Data Format
+## Data Format
 
-# Training and Evaluating Models
+## Training and Evaluating Models
 
